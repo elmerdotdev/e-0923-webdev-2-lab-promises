@@ -15,4 +15,4 @@ Demo: [https://drive.google.com/file/d/1WSA1a3Stg8Qx6RrP1F1sQ9bucvEKZ_WN/view?us
 - [https://dummyjson.com/todos/user/id]
 - [https://dummyjson.com/user/id]
 
-`id` has to be dynamic
+`id` is dynamic
